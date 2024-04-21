@@ -16,7 +16,7 @@ Es mostren el número d'infermers per província espanyola.
 
 Font obtinguda del portal de dades obertes [https://datos.gob.es/](https://datos.gob.es/es/catalogo/ea0010587-c-n-de-enfermeros-por-comunidades-ciudades-autonomas-y-provincias-de-colegiacion-situacion-laboral-y-sexo-identificador-api-tpx-sociedad_2589-salud_2590-epsc_5623-a2021_8678-l0-s08004-px1)
 
-- # VORONOI DIAGRAM
+- # [VORONOI DIAGRAM] (https://github.com/MarcMejiM/marcmejim.github.io/blob/main/voronoi.jpg)
 
 Es mostren les estacions de combustible alternatives a la Gasolina als Estats Units.
 
