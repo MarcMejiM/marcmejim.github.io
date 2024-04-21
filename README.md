@@ -4,7 +4,7 @@ Aquest repositori ha estat creat per Marc Mejías Muñoz, per presentar la segon
 
 En aquesta pràctica presentarem les següents tècniques:
 
-- # HEATMAP
+- # [HEATMAP] (https://github.com/MarcMejiM/marcmejim.github.io/blob/main/heatmap.png)
 
 Es mostrarà els habitatges iniciats i acabats, a la comarca de La Cerdanya, per trimestre en el període del 2000-2023.
 
