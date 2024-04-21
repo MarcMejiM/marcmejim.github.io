@@ -20,7 +20,7 @@ Font obtinguda del portal de dades obertes [https://datos.gob.es/](https://datos
 
 Es mostren les estacions de combustible alternatives a la Gasolina als Estats Units.
 
-Conjunt de dades obtingut del portal de dades https://www.kaggle.com/datasets/thedevastator/non-gasoline-alternative-fueling-stations.
+Conjunt de dades obtingut del portal de dades [https://www.kaggle.com/](https://www.kaggle.com/datasets/thedevastator/non-gasoline-alternative-fueling-stations)
 
 # Referències
 - DataVizCatalogue (2024). Mapa de Calor. Disponible a: https://datavizcatalogue.com/ES/metodos/mapa_de_calor.html (Consultat: 5 d'abril de 2024).
