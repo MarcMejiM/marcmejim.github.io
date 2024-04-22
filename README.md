@@ -2,7 +2,7 @@
 
 Aquest repositori ha estat creat per Marc Mejías Muñoz, per presentar la segona pràctica de l'assignatura de Visualització de Dades dins del Màster de Data Science de la UOC, on es treballen tècniques de visualització.
 
-En aquesta pràctica presentarem les següents tècniques:
+En aquesta pràctica presentarem les següents tècniques i per poder visualitzar-les s'ha de clicar a cadascuna d'elles.
 
 - # [HEATMAP](https://github.com/MarcMejiM/marcmejim.github.io/blob/main/heatmap.png)
 
